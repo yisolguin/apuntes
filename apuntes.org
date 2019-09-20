@@ -1,0 +1,19 @@
+#+title: Apuntes de gráficas
+#+author: Yisel Olguín García
+
+* Definición de gráfica
+Una gráfica \(G\) consta de dos conjuntos uno llamado el conjunto de vertices 
+y otro  llamado el conjunto de aristas
+** Vertices y aristas
+
+** Orden y tamaño
+
+** Gráficas regulares
+
+*** Gráficas cubicas
+
+** Isomorfismos de gráficas
+
+* Complemento de una gráfica
+
+* El teorema fundamental
